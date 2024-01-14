@@ -1,25 +1,23 @@
-  <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        {% bookshop_include social-link %}
+
+        <ul class="footer_nav list-reset">
+          {% for item in site.data.footer.footer_menu__settings.menu__items %}
+          <li class="footer_nav__item">
+            <a href="{{ item.url | relative_url }}" class="footer_nav__link">{{ item.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+
+        <div class="copyright">{{ site.data.footer.copyright_text_html }}</div>
+
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- end footer -->
