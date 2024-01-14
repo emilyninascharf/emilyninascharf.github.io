@@ -1,0 +1,73 @@
+---
+title: Channel in Search
+subtitle: Here your subtitle of channel in search
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2014
+
+---
+
+How do music video viewers use YouTube channels in search?
+
+
+
+Background
+
+Vevo is the music video partner of all UMG and Sony labels on YouTube. A channel on Vevo is identifiable with VEVO at the end of it (ex. KatyPerryVEVO). In October 2017, YouTube announced artist channels. These a by the artist’s full name with spaces (eg. Katy Perry). 
+
+At the time, Vevo was monetizing music videos at both the video and channel level. This means that advertising packages were sold on individual music videos, but also sometimes an entire channel would be available to an advertiser. Due to a complicated publishing relationship at the time, Vevo was in competition with YouTube to sell the same advertising real estate.
+
+With the new development, Vevo stakeholders were concerned that YouTube would gain an unfair advantage in selling advertising at the channel level. 
+
+Research Questions
+
+How does the existence of both YouTube and Vevo channels affect the user experience with YouTube search?
+How can Vevo improve chances of a consumer selecting its channels?
+
+Methodology
+
+A remote, unmoderated usability test of 12 participants, asking them to search for a particular artists channel, make a choice, and explain why they chose it. The test was about 10 minutes start to end
+
+Participants were recruited from the proprietary UserTesting channel with demographic criteria to mimic Vevo users in the US of the age group that advertisers were the most likely to want to meet:
+
+Reside in the US
+Ages 18-35
+Has watched at least 3 music videos on YouTube in the past month
+
+Potential respondents were asked how many music videos they watched on YouTube as a proxy for a Vevo user - Vevo did not have the ability to contact users on YouTube directly.
+
+The script outline after intro and screening was:
+
+Ask users to describe how they typically watch music videos on youtube
+Time of day
+Mood
+What they wish to accomplish
+How they typically navigate to a video
+Ask them to navigate to an artist channel (artist selected by the researcher) through the search bar 
+What do they typically look for when selecting an artist channel?
+Which channel would they select in the results and why?
+What jumps out at them 
+Repeat step 2 another 2 times
+Ask for final thoughts
+
+Results 
+
+There was a near-even split between the Official Artist channel and Vevo channel across the 36 examples in the 12 tests. However, the reasons for selecting each showed a pattern across users.
+
+
+
+At the time, YouTube was utilizing descriptions on their Official Artist Channels while Vevo channels were not. 
+
+When Vevo was selected, it was because the Vevo brand told users that the video would be “official.” When YouTube was selected, it was because the description told them unambiguously that the channel was official. Official in this sense meant both high quality and the intention of the artist. This study was the first to establish the specific brand equity of the Vevo name to users navigating YouTube.
+
+Impact on Stakeholders
+
+
+
+Product & engineering - created a tool to automate adding a description for Vevo channels to make the “official” status more straightforward and less reliant on brand equity
+Artist relations - helped artist management teams to navigate the changes to channels on YouTube and what they mean for content artists have on YouTube through Vevo or otherwise 
+Business development - Was able to use brand equity findings  as leverage in later conversations with YouTube about revenue operations
