@@ -2,7 +2,7 @@
 title: Channel in Search
 subtitle: Here your subtitle of channel in search
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
