@@ -89,7 +89,7 @@ h6 {
 }
 
 .header-linkedin.hover {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .btn-primary:active,
