@@ -657,8 +657,8 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #f3cfc6;
-    /*background-image: url('{{ site.baseurl }}/img/map-image.png');*/
+    /*background-color: #f3cfc6;*/
+    background-image: url('{{ site.baseurl }}/img/pink_background_dark.png');
     background-position: center;
     background-repeat: no-repeat;
 }
