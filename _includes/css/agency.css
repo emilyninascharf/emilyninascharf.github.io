@@ -88,6 +88,10 @@ h6 {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.header-linkedin.hover {
+    color: #ffffff;
+}
+
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
