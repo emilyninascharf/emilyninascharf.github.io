@@ -11,7 +11,7 @@ project-date: April 2014
 
 ---
 
-*How do music video viewers use YouTube channels in search?*
+**How do music video viewers use YouTube channels in search?**
 
 
 
@@ -25,12 +25,12 @@ At the time, Vevo was monetizing music videos at both the video and channel leve
 
 With the new development, Vevo stakeholders were concerned that YouTube would gain an unfair advantage in selling advertising at the channel level. 
 
-Research Questions
+_Research Questions_
 
 How does the existence of both YouTube and Vevo channels affect the user experience with YouTube search?
 How can Vevo improve chances of a consumer selecting its channels?
 
-Methodology
+_Methodology_
 
 A remote, unmoderated usability test of 12 participants, asking them to search for a particular artists channel, make a choice, and explain why they chose it. The test was about 10 minutes start to end
 
@@ -56,7 +56,7 @@ What jumps out at them
 Repeat step 2 another 2 times
 Ask for final thoughts
 
-Results 
+_Results_ 
 
 There was a near-even split between the Official Artist channel and Vevo channel across the 36 examples in the 12 tests. However, the reasons for selecting each showed a pattern across users.
 
@@ -66,7 +66,7 @@ At the time, YouTube was utilizing descriptions on their Official Artist Channel
 
 When Vevo was selected, it was because the Vevo brand told users that the video would be “official.” When YouTube was selected, it was because the description told them unambiguously that the channel was official. Official in this sense meant both high quality and the intention of the artist. This study was the first to establish the specific brand equity of the Vevo name to users navigating YouTube.
 
-Impact on Stakeholders
+_Impact on Stakeholders_
 
 
 
