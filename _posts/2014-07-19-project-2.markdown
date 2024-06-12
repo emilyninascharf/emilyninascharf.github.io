@@ -29,9 +29,6 @@ A remote, unmoderated usability test of 12 participants, asking them to search f
 
 UserTesting remote study asking participants to search for specific artists and select a channel
 12 participants, US based, A18-34
-“Which channel would you select and why?” \
-“What do you look for when selecting a channel?” \
-“What jumps out at you from each of the top two channels?”
 - “Which channel would you select and why?”
 - “What do you look for when selecting a channel?”
 - “What jumps out at you from each of the top two channels?”
