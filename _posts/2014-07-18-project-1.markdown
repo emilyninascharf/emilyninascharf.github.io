@@ -19,57 +19,40 @@ _Background_
 
 ![image](img/portfolio/golden.png)
 
-Vevo is the music video partner of all UMG and Sony labels on YouTube. A channel on Vevo is identifiable with VEVO at the end of it (ex. KatyPerryVEVO). In October 2017, YouTube announced artist channels. These a by the artist’s full name with spaces (eg. Katy Perry). 
-
-At the time, Vevo was monetizing music videos at both the video and channel level. This means that advertising packages were sold on individual music videos, but also sometimes an entire channel would be available to an advertiser. Due to a complicated publishing relationship at the time, Vevo was in competition with YouTube to sell the same advertising real estate.
-
-With the new development, Vevo stakeholders were concerned that YouTube would gain an unfair advantage in selling advertising at the channel level. 
+Vevo was seeking to rely less on YouTube for revenue. As Connected TV poised to take over advertising budget, Vevo and media agency Magna teamed up to maximize resources for a diary study.
 
 _Research Questions_
 
-How does the existence of both YouTube and Vevo channels affect the user experience with YouTube search?
-How can Vevo improve chances of a consumer selecting its channels?
+What are the motivations behind device choice?
+How receptive are consumers to advertising by device? Does attention vary by device?
+How can advertisers optimize across devices?
 
 _Methodology_
 
-A remote, unmoderated usability test of 12 participants, asking them to search for a particular artists channel, make a choice, and explain why they chose it. The test was about 10 minutes start to end
+A nationally representative online panel of 3500 wrote a diary of daily video consumption.
 
-Participants were recruited from the proprietary UserTesting channel with demographic criteria to mimic Vevo users in the US of the age group that advertisers were the most likely to want to meet:
+Diary entries covered 9,613 video sessions and included:
 
-Reside in the US
-Ages 18-35
-Has watched at least 3 music videos on YouTube in the past month
+Why - Motivations for watching and selection of device
+What - Video content type, genre, how the selection was made
+When - Time of day and day of week
+Where - Everything associated with environment
+Who - Ethnicity/race, generation, gender, etc.
 
-Potential respondents were asked how many music videos they watched on YouTube as a proxy for a Vevo user - Vevo did not have the ability to contact users on YouTube directly.
-
-The script outline after intro and screening was:
-
-Ask users to describe how they typically watch music videos on youtube
-Time of day
-Mood
-What they wish to accomplish
-How they typically navigate to a video
-Ask them to navigate to an artist channel (artist selected by the researcher) through the search bar 
-What do they typically look for when selecting an artist channel?
-Which channel would they select in the results and why?
-What jumps out at them 
-Repeat step 2 another 2 times
-Ask for final thoughts
 
 _Results_ 
 
-There was a near-even split between the Official Artist channel and Vevo channel across the 36 examples in the 12 tests. However, the reasons for selecting each showed a pattern across users.
+*Co-viewers are especially attentive to advertising on CTV, and music content lends itself to co-viewing
+There is more passive discovery of content on CTV than on desktop or mobile*
+*While audio is understandably important when watching music content on any device, visuals are most important on CTV compared to other devices*
+*Time of day, task at hand, and location are the strongest drivers of device choice - CTV in particular is ideal for when consumers want variety in content at home*
+
+
+_Impact_
 
 
 
-At the time, YouTube was utilizing descriptions on their Official Artist Channels while Vevo channels were not. 
+The press made Vevo and Magna leaders and tastemakers in the CTV ad market for everything from length of ad breaks to multicultural programming
+Today 27% of all of Vevo’s views come from its 35 CTV partnerships, compared to 5% of views across 7 partnerships at the time of the study.
+CTV partnerships include Free Ad Supported TV (FAST) channels - one channel, Vevo Pop, would go on to win the 2023 Digiday Best FAST Channel Award
 
-When Vevo was selected, it was because the Vevo brand told users that the video would be “official.” When YouTube was selected, it was because the description told them unambiguously that the channel was official. Official in this sense meant both high quality and the intention of the artist. This study was the first to establish the specific brand equity of the Vevo name to users navigating YouTube.
-
-_Impact on Stakeholders_
-
-
-
-Product & engineering - created a tool to automate adding a description for Vevo channels to make the “official” status more straightforward and less reliant on brand equity
-Artist relations - helped artist management teams to navigate the changes to channels on YouTube and what they mean for content artists have on YouTube through Vevo or otherwise 
-Business development - Was able to use brand equity findings  as leverage in later conversations with YouTube about revenue operations
