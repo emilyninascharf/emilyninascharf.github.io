@@ -1,6 +1,6 @@
 ---
 title: Channel in Search
-subtitle: Here your subtitle of channel in search
+subtitle: How do users use search to find videos?
 layout: default
 modal-id: 2
 date: 2014-07-18
