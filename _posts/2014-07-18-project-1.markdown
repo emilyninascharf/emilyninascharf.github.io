@@ -4,8 +4,8 @@ subtitle: How can advertisers optimize across devices?
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: anatomy_of_video.jpeg
-thumbnail: anatomy_of_video.jpeg
+img: anatomy_of_video.png
+thumbnail: anatomy_of_video.png
 alt: image-alt
 project-date: April 2014
 
@@ -13,7 +13,7 @@ project-date: April 2014
 
 <h3>Background</h3>
 
-![image](img/portfolio/lady_gaga.jpeg)
+<!-- ![image](img/portfolio/lady_gaga.jpeg) -->
 
 Vevo was seeking to rely less on YouTube for revenue. As Connected TV poised to take over advertising budget, Vevo and media agency Magna teamed up to maximize resources for a diary study.
 
