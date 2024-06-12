@@ -1,6 +1,6 @@
 ---
 title: Anatomy of a Video
-subtitle: Here your subtitle of anatomy of a video
+subtitle: How can advertisers optimize across devices?
 layout: default
 modal-id: 1
 date: 2014-07-18
