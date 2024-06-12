@@ -66,10 +66,10 @@ At the time, YouTube was utilizing descriptions on their Official Artist Channel
 
 Official in this sense meant both high quality and the intention of the artist. This study was the first to establish the specific brand equity of the Vevo name to users navigating YouTube.
 
-Impact on Stakeholders
+***Impact on Stakeholders***
 
 
 
-Product & engineering - created a tool to automate adding a description for Vevo channels to make the “official” status more straightforward and less reliant on brand equity
-Artist relations - helped artist management teams to navigate the changes to channels on YouTube and what they mean for content artists have on YouTube through Vevo or otherwise 
-Business development - Was able to use brand equity findings  as leverage in later conversations with YouTube about revenue operations
+*Product & engineering* - created a tool to automate adding a description for Vevo channels to make the “official” status more straightforward and less reliant on brand equity
+*Artist relations* - helped artist management teams to navigate the changes to channels on YouTube and what they mean for content artists have on YouTube through Vevo or otherwise 
+*Business development* - Was able to use brand equity findings  as leverage in later conversations with YouTube about revenue operations
