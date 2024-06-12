@@ -18,6 +18,8 @@ Vevo is the music video partner of all UMG and Sony labels on YouTube. A channel
 
 With the new development, Vevo stakeholders were concerned that YouTube would gain an unfair advantage in selling advertising at the channel level. 
 
+![image](img/portfolio/golden.png)
+
 <h3>Research Questions</h3>
 
 How does the existence of both YouTube and Vevo channels affect the user experience with YouTube search?
