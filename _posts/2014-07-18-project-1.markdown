@@ -32,14 +32,12 @@ A nationally representative online panel of 3500 wrote a diary of daily video co
 - *Where* - Everything associated with environment
 - *Who* - Ethnicity/race, generation, gender, etc.
 
- <div class="highlight">
 <h3>Results</h3> 
 
 - Co-viewers are especially attentive to advertising on CTV, and music content lends itself to co-viewing
 There is more passive discovery of content on CTV than on desktop or mobile.
 - While audio is understandably important when watching music content on any device, visuals are most important on CTV compared to other devices.
 - Time of day, task at hand, and location are the strongest drivers of device choice - CTV in particular is ideal for when consumers want variety in content at home.
-</div>
 
 <h3>Impact</h3>
 

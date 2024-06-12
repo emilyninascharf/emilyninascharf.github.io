@@ -821,9 +821,9 @@ ul.social-buttons li a:active {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .highlight {
+/* .portfolio-modal .highlight {
     background-color: #{{ site.data.template.color.primary }};
-}
+} */
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
