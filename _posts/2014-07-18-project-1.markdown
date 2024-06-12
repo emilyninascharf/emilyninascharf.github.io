@@ -12,19 +12,19 @@ project-date: April 2014
 ---
 
 
-_Background_
+<h3>Background</h3>
 
 ![image](img/portfolio/golden.png)
 
 Vevo was seeking to rely less on YouTube for revenue. As Connected TV poised to take over advertising budget, Vevo and media agency Magna teamed up to maximize resources for a diary study.
 
-_Research Questions_
+<h3>Research Questions</h3>
 
 What are the motivations behind device choice?
 How receptive are consumers to advertising by device? Does attention vary by device?
 How can advertisers optimize across devices?
 
-_Methodology_
+<h3>Methodology</h3>
 
 A nationally representative online panel of 3500 wrote a diary of daily video consumption.
 
@@ -37,7 +37,7 @@ Where - Everything associated with environment
 Who - Ethnicity/race, generation, gender, etc.
 
 
-_Results_ 
+<h3>Results</h3> 
 
 *Co-viewers are especially attentive to advertising on CTV, and music content lends itself to co-viewing
 There is more passive discovery of content on CTV than on desktop or mobile*
@@ -45,7 +45,7 @@ There is more passive discovery of content on CTV than on desktop or mobile*
 *Time of day, task at hand, and location are the strongest drivers of device choice - CTV in particular is ideal for when consumers want variety in content at home*
 
 
-_Impact_
+<h3>Impact</h3>
 
 
 
