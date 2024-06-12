@@ -28,7 +28,7 @@ How can Vevo improve chances of a consumer selecting its channels?
 A remote, unmoderated usability test of 12 participants, asking them to search for a particular artists channel, make a choice, and explain why they chose it. The test was about 10 minutes start to end
 
 UserTesting remote study asking participants to search for specific artists and select a channel
-12 participants, US based, A18-34
+12 participants, US based, A18-34 \
 - “Which channel would you select and why?”
 - “What do you look for when selecting a channel?”
 - “What jumps out at you from each of the top two channels?”
