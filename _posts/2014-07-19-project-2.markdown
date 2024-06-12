@@ -14,9 +14,7 @@ project-date: April 2014
 
 **Background**
 
-Vevo is the music video partner of all UMG and Sony labels on YouTube. A channel on Vevo is identifiable with VEVO at the end of it (ex. KatyPerryVEVO). In October 2017, YouTube announced artist channels. These a by the artist’s full name with spaces (eg. Katy Perry). 
-
-At the time, Vevo was monetizing music videos at both the video and channel level. This means that advertising packages were sold on individual music videos, but also sometimes an entire channel would be available to an advertiser. Due to a complicated publishing relationship at the time, Vevo was in competition with YouTube to sell the same advertising real estate.
+Vevo is the music video partner of all UMG and Sony labels on YouTube. A channel on Vevo is identifiable with VEVO at the end of it (ex. KatyPerryVEVO). In October 2017, YouTube announced artist channels. These a by the artist’s full name with spaces (eg. Katy Perry). At the time, Vevo was monetizing music videos at both the video and channel level.
 
 With the new development, Vevo stakeholders were concerned that YouTube would gain an unfair advantage in selling advertising at the channel level. 
 
@@ -29,27 +27,12 @@ How can Vevo improve chances of a consumer selecting its channels?
 
 A remote, unmoderated usability test of 12 participants, asking them to search for a particular artists channel, make a choice, and explain why they chose it. The test was about 10 minutes start to end
 
-Participants were recruited from the proprietary UserTesting channel with demographic criteria to mimic Vevo users in the US of the age group that advertisers were the most likely to want to meet:
+UserTesting remote study asking participants to search for specific artists and select a channel
+12 participants, US based, A18-34
+“Which channel would you select and why?”
+“What do you look for when selecting a channel?”
+“What jumps out at you from each of the top two channels?”
 
-Reside in the US
-Ages 18-35
-Has watched at least 3 music videos on YouTube in the past month
-
-Potential respondents were asked how many music videos they watched on YouTube as a proxy for a Vevo user - Vevo did not have the ability to contact users on YouTube directly.
-
-*The script outline after intro and screening was:*
-
-Ask users to describe how they typically watch music videos on youtube
-Time of day
-Mood
-What they wish to accomplish
-How they typically navigate to a video
-Ask them to navigate to an artist channel (artist selected by the researcher) through the search bar 
-What do they typically look for when selecting an artist channel?
-Which channel would they select in the results and why?
-What jumps out at them 
-Repeat step 2 another 2 times
-Ask for final thoughts
 
 **Results**
 
