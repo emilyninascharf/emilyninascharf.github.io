@@ -4,8 +4,8 @@ subtitle: How do users use search to find videos?
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: 0F975CD4-E8EE-4743-8BBB-EC899E398ECC.jpeg
+thumbnail: 0F975CD4-E8EE-4743-8BBB-EC899E398ECC.jpeg
 alt: image-alt
 project-date: April 2014
 
