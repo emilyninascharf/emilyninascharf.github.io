@@ -799,7 +799,12 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content strong{
+/* Make <strong> text within .modal-content text-align to center */
+.portfolio-modal .modal-content strong {
+    text-align: center;
+}
+
+.portfolio-modal .modal-content p strong {
     text-align: center;
 }
 
