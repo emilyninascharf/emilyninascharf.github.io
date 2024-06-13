@@ -4,8 +4,8 @@ subtitle: How do users use search to find videos?
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: katy_perry_square.jpeg
-thumbnail: katy_perry_square.jpeg
+img: videoinsearch43.jpeg
+thumbnail: videoinsearch43.jpeg
 alt: image-alt
 project-date: April 2014
 
