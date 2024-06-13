@@ -4,8 +4,8 @@ subtitle: How can advertisers optimize across devices?
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: anatomyofvideo43.jpeg
-thumbnail: anatomyofvideo43.jpeg
+img: anatomyofvideo43_2.jpeg
+thumbnail: anatomyofvideo43_2.jpeg
 alt: image-alt
 project-date: April 2014
 
