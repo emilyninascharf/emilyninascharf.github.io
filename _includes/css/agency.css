@@ -307,6 +307,8 @@ header .intro-text .intro-lead-in {
     /* font-style: italic; */
     font-style: normal;
     line-height: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 header .intro-text .intro-heading {
@@ -318,8 +320,6 @@ header .intro-text .intro-heading {
     font-weight: 700;
     /* line-height: 35px; */
     line-height: 25px;
-    font-weight: bold;
-    text-transform: uppercase;
 }
 
 @media(min-width:768px) {
