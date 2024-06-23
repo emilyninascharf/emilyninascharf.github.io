@@ -16,7 +16,7 @@ project-date: April 2014
 
 Vevo is the music video partner of all UMG and Sony labels on YouTube. A channel on Vevo is identifiable with VEVO at the end of it (ex. KatyPerryVEVO). In October 2017, YouTube announced artist channels. These a by the artist’s full name with spaces (eg. Katy Perry). At the time, Vevo was monetizing music videos at both the video and channel level.
 
-![image](img/portfolio/Original_Search_Result.jpeg)
+![image](img/portfolio/Final_Search_Result.png)
 
 With the new development, Vevo stakeholders were concerned that YouTube would gain an unfair advantage in selling advertising at the channel level. 
 
