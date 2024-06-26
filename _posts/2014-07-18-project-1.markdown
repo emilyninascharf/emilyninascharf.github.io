@@ -13,7 +13,7 @@ project-date: April 2014
 
 <h3>Background</h3>
 
-<!-- ![image](img/portfolio/lady_gaga.jpeg) -->
+![image](img/portfolio/lady_gaga.jpeg)
 
 Vevo was seeking to rely less on YouTube for revenue. As Connected TV poised to take over advertising budget, Vevo and media agency Magna teamed up to maximize resources for a diary study.
 
@@ -45,4 +45,4 @@ The press made Vevo and Magna leaders and tastemakers in the CTV ad market for e
 Today 27% of all of Vevo’s views come from its 35 CTV partnerships, compared to 5% of views across 7 partnerships at the time of the study.
 CTV partnerships include Free Ad Supported TV (FAST) channels - one channel, Vevo Pop, would go on to win the 2023 Digiday Best FAST Channel Award.
 
-<!-- ![image](img/portfolio/Pluto.png) -->
+![image](img/portfolio/Pluto.png) 
